@@ -1,5 +1,6 @@
 checkpoints/
 results/
+ADEChallengeData2016/
 .idea/
 *.tar.gz
 *.zip
